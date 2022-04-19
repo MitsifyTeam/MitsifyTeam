@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivabalan</h1>
-<h3 align="center">I am a passionate web application developer from India. Having 10+ years of experience and developed for than 30 application from the scratch.</h3>
+<h3 align="center">I am a passionate web application developer from India. Having 10+ years of experience and developed for than 30 application from the scratch. My team is of 4 developers all with 5+ years experience</h3>
 
 - 🔭 I’m currently working on [USA Project - Academy for students](https://www.mitsify.com)
 
